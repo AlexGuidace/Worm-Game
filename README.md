@@ -21,16 +21,16 @@ Here's a screenshot of the game. Click it for a larger version.
 # Project Files
 The following links contain summary overviews of each file used in the project. Please refer to a file's code directly for specific implementation and details regarding that file.
 
-* [Main.java](#Main.java)
-* [Direction.java](#Direction.java)
-* [Piece.java](#Piece.java)
-* [Apple.java](#Apple.java)
-* [Worm.java](#Worm.java)
-* [WormGame.java](#WormGame.java)
-* [DrawingBoard.java](#DrawingBoard.java)
-* [KeyboardListener.java](#KeyboardListener.java)
-* [Updatable.java](#Updatable.java)
-* [UserInterface.java](#UserInterface.java)
+* [Main.java](#Mainjava)
+* [Direction.java](#Directionjava)
+* [Piece.java](#Piecejava)
+* [Apple.java](#Applejava)
+* [Worm.java](#Wormjava)
+* [WormGame.java](#WormGamejava)
+* [DrawingBoard.java](#DrawingBoardjava)
+* [KeyboardListener.java](#KeyboardListenerjava)
+* [Updatable.java](#Updatablejava)
+* [UserInterface.java](#UserInterfacejava)
 
 ## Main.java
 This is where the program runs from. It instantiates a new WormGame and UserInterface, makes the program thread-safe, prepares the game for updates according to user actions, and starts the game.
